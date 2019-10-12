@@ -10,8 +10,6 @@ npm install vue-video-player -s
 npm install videojs-contrib-hls.js -s
 ```
 
-### 详细说明
-[我的简书,vue-video-player](https://www.jianshu.com/p/78f5ca71e1f6)
 
 ## Build Setup
 
